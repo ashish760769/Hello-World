@@ -8,7 +8,6 @@ void main()
    {
        printf("0123456789");
        j++;
-
    }
    printf("\n");
 
