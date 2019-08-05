@@ -10,6 +10,7 @@ where n is user input
 Above pattern is for n == 6 */
 
 #include<stdio.h>
+#include<stdlib.h>
 int main()
 {
     int n;
